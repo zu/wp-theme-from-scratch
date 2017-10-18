@@ -1,0 +1,5 @@
+# Bild-Beschriftung stylen
+
+Apropos Bilder mit Bildunterschriften, vielleicht möchten Sie Ihre eigenen Styling auf die Bildunterschriften von Bildern in Seiten impulsiert anwenden. Zwischen dem vorherigen Film und diesem habe ich meine eigene Beschriftung zu den Übungsdateien hinzugefügt. Wenn ihr sie also ausprobieren wollt, könnt ihr euch die Übungsdateien für diesen Film herunterladen, 0608. Die Bildunterschriften sind im Innern des Ordners unter Medien und Bildunterschriften angeordnet. Und hier habe ich gerade einige Standardbeschriftungen eingefügt. Achten Sie besonders darauf, wie ich den wp-caption-Text einstelle. Hier habe ich Marge hinzugefügt, die ansprechbar ist, weil wir die negative Marge berücksichtigen müssen, die wir im vorherigen Film hinzugefügt haben.
+
+Styling Bildunterschriften können eine Menge Spaß machen, und ich ermutige Sie, hier kreativ zu sein, weil Sie eine Menge ordentliches Material mit Bildunterschriften tun können, wenn Sie wollten. Es ist alles eine Frage Ihrer Design-Fantasie.
