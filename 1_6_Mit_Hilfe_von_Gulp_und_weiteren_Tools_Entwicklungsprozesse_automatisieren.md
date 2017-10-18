@@ -1,4 +1,4 @@
-# Mit Hilfe von Gulp und weiteren Tools Entwicklungsprozesse automatisiseren
+# Mit Hilfe von Gulp und weiteren Tools Entwicklungsprozesse automatisieren
 
 Die zentrale Komponente der Entwicklungsumgebung auf Ihrem Computer ist Ihre Entwicklungsanwendung, und während Sie WordPress-Themen mit einem einfachen Texteditor entwickeln können, ist es viel effizienter, eine vollständige IDE zu verwenden, um die Arbeit zu erledigen. Eine IDE oder Integrierte Entwicklungsumgebung ist ein erweiterter Texteditor, der zusätzliche Funktionen wie Funktionsverfolgung, Syntaxhervorhebung, Debugging, Versionskontrollintegration usw. enthält. Während du durch den Kurs fortschreitest, wirst du sehen, dass ich eine IDE benutze und du wirst sehen, warum es nützlich ist. Also, eine Installation von oben zu bekommen, ist eine wirklich gute Idee.
 

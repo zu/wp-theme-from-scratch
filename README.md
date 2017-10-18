@@ -16,3 +16,9 @@ Hier werden ebenfalls die Übungsdateien gespeichert.
 P.S. Dieses Repository existiert weil das Repository von GitBook irgendwie ausser Kontrolle geriet.
 
 Nun muss ich zuerst aufräumen!
+
+
+
+wp-theme-from-scratch-II: https://www.gitbook.com/book/zu/wp-theme-from-scratch-ii
+
+Um das Buch als PDF oder E-Book (Mobi, ePub) herunterzuladen.
