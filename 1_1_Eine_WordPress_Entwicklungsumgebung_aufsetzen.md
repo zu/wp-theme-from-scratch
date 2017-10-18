@@ -1,4 +1,4 @@
-# How to set up a WordPress development environment
+# Eine WordPress Entwicklungsumgebung aufsetzen
 
 Bevor Sie ein Theme erstellen können, müssen Sie eine ordnungsgemässe Entwicklungsumgebung auf Ihrem Computer eingerichtet haben. Das bedeutet, alle notwendigen Teile zusammenzufügen, um den Entwicklungsprozess selbst so einfach und unkompliziert wie möglich zu gestalten. Es gibt ungefähr so viele Entwicklungsumgebungs-Setups wie es Entwickler gibt und jeder hat seine eigenen persönlichen Vorlieben. In diesem Kapitel werde ich Ihnen zeigen, wie Sie Ihre eigene Entwicklungsumgebung einrichten und Ihnen einige Optionen zur Auswahl an geeigneter Stelle geben. Ich sage Ihnen auch, wie mein Setup aussieht. Zuerst müssen Sie WordPress selbst lokal auf Ihrem System laufen lassen.
 
@@ -6,7 +6,7 @@ Bevor Sie ein Theme erstellen können, müssen Sie eine ordnungsgemässe Entwick
 
 Mit einer lokalen WordPress-Installation können Sie direkt mit den Theme-Dateien arbeiten. Änderungen, die Sie vorgenommen haben, werden auf der Seite sofort wirksam und sichtbar. Es ist kein Upload oder Download von Dateien erforderlich. Eine lokale Installation bedeutet auch, dass Sie nicht wirklich eine Internetverbindung benötigen, um Ihre Arbeit testen zu können und als Bonus sind Sie der Einzige, der Ihre Inhalte sehen kann. Abhängig von Ihren Plattform-Kenntnissen und wie Sie arbeiten möchten, gibt es viele verschiedene Methoden für die Installation und Ausführung von WordPress auf Ihrem Computer. Um diesen Prozess so einfach wie möglich zu machen, haben wir die Installation und Ausführung der WordPress-Serie erstellt, die Sie durch den Prozess mit verschiedenen Optionen führt.
 
-Für den in diesem Kurs beschriebenen Prozess empfehle ich [LOCAL by Flywheel](https://local.getflywheel.com/) für Windows oder Mac zu nutzen, aber wenn Sie eine andere bevorzugte Option haben, können Sie diese auch verwenden. Während dieses Kurses werde ich LOCAL benutzen, und ich habe es mit der DOMAIN *http://wptheme.dev/* eingerichtet. Für eine Übereinstimmung empfehle ich, wenn Sie dasselbe tun. Die Zip-Datei um eine vorkonfigurierte LOCAL-Umgebung zu nutzen erhalten Sie mit den Übungsdateien.
+Für den in diesem Kurs beschriebenen Prozess empfehle ich [LOCAL by Flywheel](https://local.getflywheel.com/) für Windows oder Mac zu nutzen, aber wenn Sie eine andere bevorzugte Option haben, können Sie diese auch verwenden. Während dieses Kurses werde ich LOCAL benutzen, und ich habe es mit der DOMAIN [http://wptheme.dev/](http://wptheme.dev/) eingerichtet. Für eine Übereinstimmung empfehle ich, wenn Sie dasselbe tun. Die Zip-Datei um eine vorkonfigurierte LOCAL-Umgebung zu nutzen erhalten Sie mit den Übungsdateien.
 
 ### Editor (Coding-Umgebung)
 

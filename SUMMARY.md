@@ -10,7 +10,7 @@
 
 ## Eine WordPress Entwicklungsumgebung aufsetzen
 
-* [Eine WordPress Entwicklungsumgebung aufsetzen](/0_1_Wilkommen.md)
+* [Eine WordPress Entwicklungsumgebung aufsetzen](eine-wordpress-entwicklungsumgebung-aufsetzen.md)
 * [Das \_s \(underscores\) Starter Theme für WordPress beziehen und installieren](/1_2_Das_s_Starter_Theme_fuer_WordPress_beziehen_und_installieren.md)
 * [Ein WordPress Theme installieren und auskundschaften](/1_3_Ein_WordPress_Theme_installieren_und_auskundschaften.md)
 * [Das Developer-Plugin und andere nützliche Plugins installieren](/1_2_Das_s_Starter_Theme_fuer_WordPress_beziehen_und_installieren.md)
@@ -141,6 +141,3 @@
 ## Schlussfolgerung
 
 * Mit WordPress noch mehr erreichen
-
-
-
