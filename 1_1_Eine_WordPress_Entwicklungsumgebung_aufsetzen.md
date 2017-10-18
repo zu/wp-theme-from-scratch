@@ -12,7 +12,7 @@ Für den in diesem Kurs beschriebenen Prozess empfehle ich [LOCAL by Flywheel](h
 
 Zweitens benötigen Sie eine Coding-Umgebung. Ich werde am Ende des Kapitels mehr darüber reden, aber das Wesentliche ist, dass Sie einen Code-Editor benötigen, am besten eine erweiterte IDE.
 
-Es gibt viele Optionen hier verfügbar, einige frei und einige für Bezahlung und ich werde den kostenlosen Code-Editor [Visual Studio Code](https://code.visualstudio.com/) von Microsoft nutzen. 
+Es gibt viele Optionen hier verfügbar, einige kostenlos und einige gegen Bezahlung. Ich werde den kostenlosen Code-Editor [Visual Studio Code](https://code.visualstudio.com/) von Microsoft nutzen. 
 
 ### Inhalte
 
