@@ -9,7 +9,7 @@
    (Ordner aus Ex_Files_assets.zip in die LOCAL by Flywheel Ordnerstruktur: ".../LOCAL/wpthemedev/app/public/wp-content/themes/humescores" o. ä) kopiert.
    gulp-dev erscheint als "beschädigtes Theme"
 7. npm install
-8. npm install gulp
+8. npm install gulp —global
 9. gem install sass
 10. gulp (startet gulp watch)
     Alt + C um gulp watch zu beenden
